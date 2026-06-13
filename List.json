@@ -1,14 +1,10 @@
 {
-    "version": "0.5",
+    "version": "0.5", 
+    "appeal": "https://discord.gg/준비중", 
     "bans": {
-        "111111111": {
-            "reason": "핵",
+        "123456789": {
+            "reason": "Exploit",
             "date": "2026-06-13"
-        },
-
-        "222222222": {
-            "reason": "서버 테러",
-            "date": "2026-06-12"
         }
     }
 }
